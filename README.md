@@ -13,10 +13,6 @@ Feel free to reach out to me for collaboration or just to talk tech! Here are so
 - 📧 Email: [gourabathini.s@northeastern.edu](mailto:gourabathini.s@northeastern.edu)
 - 🌍 LinkedIn: [Saimanas Gourabathini](https://www.linkedin.com/in/sai-manas-g/)
 
-### 📈 GitHub Stats
-
-![Saimanas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaimanasGourabathini&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ### 🧑‍💻 My Top Repositories
 Check out some of my most notable repositories:
 
@@ -29,10 +25,6 @@ Check out some of my most notable repositories:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanasg&langs_count=10&layout=compact&theme=radical)
 
 ---
-
-### 📈 GitHub Stats
-
-![Saimanas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimanasg&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 💡 Fun Fact
 When I'm not coding, you can find me reading about the latest advancements in **cloud technologies**, **DevOps** practices, or exploring new programming challenges!
